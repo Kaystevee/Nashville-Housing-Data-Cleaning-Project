@@ -1,8 +1,10 @@
 /*
-
 Data Cleaning in SQL Queries
-
+Nashville Housing Data Cleaning 
 */
+-- Import data into MSSQL
+
+-- View entire dataset 
 
 SELECT *
 FROM PortfolioProject..NashvilleHousing;
