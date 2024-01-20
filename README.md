@@ -9,7 +9,7 @@ The objective of this project is to clean and arrange the Nashville Housing Data
 ## Methods
 
 **Several steps were implemented to accomplish this objective**
-* Import data into MSSQL
+* Import data into SSMS
 * View entire data
 * Standardize date format to Datetime
 * Populate property Address Data
